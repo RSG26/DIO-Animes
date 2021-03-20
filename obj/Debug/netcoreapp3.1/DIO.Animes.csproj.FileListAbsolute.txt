@@ -1,0 +1,13 @@
+C:\MRV- Bootcamp\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.exe
+C:\MRV- Bootcamp\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.deps.json
+C:\MRV- Bootcamp\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.runtimeconfig.json
+C:\MRV- Bootcamp\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.runtimeconfig.dev.json
+C:\MRV- Bootcamp\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.dll
+C:\MRV- Bootcamp\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.pdb
+C:\MRV- Bootcamp\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.csprojAssemblyReference.cache
+C:\MRV- Bootcamp\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.AssemblyInfoInputs.cache
+C:\MRV- Bootcamp\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.AssemblyInfo.cs
+C:\MRV- Bootcamp\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.csproj.CoreCompileInputs.cache
+C:\MRV- Bootcamp\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.dll
+C:\MRV- Bootcamp\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.pdb
+C:\MRV- Bootcamp\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.genruntimeconfig.cache
